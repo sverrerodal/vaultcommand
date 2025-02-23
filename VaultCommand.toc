@@ -1,0 +1,7 @@
+## Interface: 110007
+## Version: 1.0.0
+## Title: Vault Command
+## Notes: Opens Great Vault with /vault or /weekly
+## Author: catn
+
+VaultCommand.lua
